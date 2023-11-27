@@ -50,12 +50,7 @@
 
 2. Open XAMPP Control panal and start [apache] and [mysql] .
 
-3. Download project from github(https://github.com/PuneethReddyHC/online-shopping-system-with-advanced-admin-page.git)  
-   OR follow gitbash commands
-
-   i>cd C:\\xampp\htdocs\
-
-   ii>git clone https://github.com/PuneethReddyHC/online-shopping-system-with-advanced-admin-page.git
+3. Download project from github
 
 4. extract files in C:\\xampp\htdocs\.
 
@@ -67,11 +62,11 @@
 
 8. after creating database name click on import.
 
-9. browse the file in directory[online-shopping-system-with-advanced-admin-page/database/onlineshop.sql].
+9. browse the file in directory[online-shopping-system/database/onlineshop.sql].
 
 10. after importing successfully.
 
-11. open any browser and type http://localhost/online-shopping-system-with-advanced-admin-page-master.
+11. open any browser and type http://localhost/online-shopping-system.
 
 12. first register and then login
 
@@ -80,12 +75,6 @@
 ## If you like my project
 
 Bye me Cup of coffee
-
-## visit my other repository with different admin pages with below link
-
-https://github.com/PuneethReddyHC/online-shopping-system-advanced
-
-https://github.com/PuneethReddyHC/event-management
 
 ## If you like my project hit a star button
 
