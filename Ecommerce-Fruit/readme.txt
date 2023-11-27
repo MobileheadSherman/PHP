@@ -1,10 +1,21 @@
-1. First create a database name ecommerce in your database. Than import ecommerce.sql file in your ecommerce database.
+First create a database name ecommerce in your database. 
+Than import ecommerce.sql file in your ecommerce database.
 
 admin access:
-saifulislamsapon@gmail.com
+shermanluong@gmail.com
 pass:1234
 
 
 user access:
-saifulislamsapon@gmail.com
+shermanluong@gmail.com
 123
+
+
+# Authors
+
+## Sherman
+
+<ul>
+<li>Github: https://github.com/MobileheadSherman</li>
+<li>Portfolio: http://sherman.mobileheads.net/</li>
+</ul>

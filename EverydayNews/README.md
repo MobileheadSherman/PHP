@@ -1,5 +1,5 @@
 #Installation steps:
-        
+
         Step 1: Clone/Download zip from git.
 
         Step 2: Extract this folder in xampp htdocs folder as everydayNews folder.
@@ -16,10 +16,10 @@
 
         -To login as an ADMIN (localhost/everydayNews/admin):
 
-                Username: mushfiq123
+                Username: sherman
                 Password: admin
 
         -To login as a NORMAL USER (localhost/everydayNews/admin):
 
-                Username: rahman123
+                Username: sherman
                 Password: 123456
